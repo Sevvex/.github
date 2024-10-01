@@ -9,6 +9,3 @@ As of **October 1, 2024**, you can view the latest code contribution statistics 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sevvex&layout=compact&theme=radical)
 
-### Contribution Calculation
-The contribution percentage is calculated as follows:
-
