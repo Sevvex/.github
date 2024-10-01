@@ -8,3 +8,4 @@ This document provides an overview of the code contributions from the `sevvex` o
 As of **October 1, 2024**, you can view the latest code contribution statistics below:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sevvex&layout=compact&theme=radical)
+
